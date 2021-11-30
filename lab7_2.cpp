@@ -27,7 +27,7 @@ int main()
 			}
 			i++;
 		}
-		cout << result;
+		cout << "Result = " << result;
 	}
 	else
 	{
